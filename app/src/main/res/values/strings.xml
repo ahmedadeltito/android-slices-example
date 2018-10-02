@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidSlicesExample</string>
+    <string name="main_activity_body">Android Slices Example</string>
 </resources>
