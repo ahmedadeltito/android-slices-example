@@ -9,11 +9,14 @@ class IncrementDecrementBroadcastReceiver : BroadcastReceiver() {
 
     companion object {
         const val EXTRA_VALUE_KEY = "extra_value"
-        const val DECREMENT_COUNTER_ACTION = "com.ahmedadelsaid.androidslicesexample.IncrementDecrementBroadcastReceiver.ACTION_DECREMENT_COUNTER"
-        const val INCREMENT_COUNTER_ACTION = "com.ahmedadelsaid.androidslicesexample.IncrementDecrementBroadcastReceiver.ACTION_INCREMENT_COUNTER"
+        const val DECREMENT_COUNTER_ACTION = "com.ahmedadelsaid.androidslicesexample" +
+                ".IncrementDecrementBroadcastReceiver.ACTION_DECREMENT_COUNTER"
+        const val INCREMENT_COUNTER_ACTION = "com.ahmedadelsaid.androidslicesexample" +
+                ".IncrementDecrementBroadcastReceiver.ACTION_INCREMENT_COUNTER"
 
         var currentValue = 0
-        val dynamicSliceUri: Uri = Uri.parse("content://com.ahmedadelsaid.androidslicesexample/dynamicCountExample")
+        val dynamicSliceUri: Uri = Uri.parse("content://com.ahmedadelsaid.androidslicesexample" +
+                "/dynamicCountExample")
     }
 
     override fun onReceive(context: Context, intent: Intent) {

@@ -166,14 +166,16 @@ class ExamplesSliceProvider : SliceProvider() {
                 0,
                 Intent(context, IncrementDecrementBroadcastReceiver::class.java)
                         .setAction(IncrementDecrementBroadcastReceiver.INCREMENT_COUNTER_ACTION)
-                        .putExtra(IncrementDecrementBroadcastReceiver.EXTRA_VALUE_KEY, IncrementDecrementBroadcastReceiver.currentValue + 1),
+                        .putExtra(IncrementDecrementBroadcastReceiver.EXTRA_VALUE_KEY,
+                            IncrementDecrementBroadcastReceiver.currentValue + 1),
                 PendingIntent.FLAG_UPDATE_CURRENT)
 
         val decrementPendingIntent = PendingIntent.getBroadcast(context,
                 0,
                 Intent(context, IncrementDecrementBroadcastReceiver::class.java)
                         .setAction(IncrementDecrementBroadcastReceiver.DECREMENT_COUNTER_ACTION)
-                        .putExtra(IncrementDecrementBroadcastReceiver.EXTRA_VALUE_KEY, IncrementDecrementBroadcastReceiver.currentValue - 1),
+                        .putExtra(IncrementDecrementBroadcastReceiver.EXTRA_VALUE_KEY,
+                            IncrementDecrementBroadcastReceiver.currentValue - 1),
                 PendingIntent.FLAG_UPDATE_CURRENT)
 
         val incrementAction = SliceAction.create(incrementPendingIntent,
