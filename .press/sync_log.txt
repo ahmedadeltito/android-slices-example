@@ -1,0 +1,185 @@
+Syncing notes with 'OnePlus 5T' on Sun, 17 Jan 2021 15:18:20 UTC
+Resetting to sha1: c1cf889 (Setup syncing on 'OnePlus 5T').
+Syncing for the first time. Backing up notes to 'press-notes-backup-1610896702920' branch.
+ • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
+ • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
+Pulled upstream. Moved head from c1cf889 - Setup syncing on 'OnePlus 5T' to ec1de6a - Setup syncing on 'OnePlus 5T'.
+
+Pulled changes (67):
+ • Add(path=.gitignore)
+ • Add(path=.idea/codeStyles/Project.xml)
+ • Add(path=.idea/compiler.xml)
+ • Add(path=.idea/encodings.xml)
+ • Add(path=.idea/misc.xml)
+ • Add(path=.idea/modules.xml)
+ • Add(path=.idea/runConfigurations.xml)
+ • Add(path=.idea/vcs.xml)
+ • Add(path=LICENSE)
+ • Add(path=README.md)
+ • Add(path=app/.gitignore)
+ • Add(path=app/build.gradle)
+ • Add(path=app/proguard-rules.pro)
+ • Add(path=app/src/androidTest/java/com/ahmedadelsaid/androidslicesexample/ExampleInstrumentedTest.kt)
+ • Add(path=app/src/main/AndroidManifest.xml)
+ • Add(path=app/src/main/java/com/ahmedadelsaid/androidslicesexample/ExamplesSliceProvider.kt)
+ • Add(path=app/src/main/java/com/ahmedadelsaid/androidslicesexample/IncrementDecrementBroadcastReceiver.kt)
+ • Add(path=app/src/main/java/com/ahmedadelsaid/androidslicesexample/MainActivity.kt)
+ • Add(path=app/src/main/java/com/ahmedadelsaid/androidslicesexample/WifiBroadcastReceiver.kt)
+ • Add(path=app/src/main/res/drawable-v24/ic_launcher_foreground.xml)
+ • Add(path=app/src/main/res/drawable/android_icon_five.png)
+ • Add(path=app/src/main/res/drawable/android_icon_four.png)
+ • Add(path=app/src/main/res/drawable/android_icon_one.png)
+ • Add(path=app/src/main/res/drawable/android_icon_three.png)
+ • Add(path=app/src/main/res/drawable/android_icon_two.png)
+ • Add(path=app/src/main/res/drawable/ic_android_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_bluetooth_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_brightness_auto_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_car_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_directions_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_email_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_flight_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_home_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_launcher_background.xml)
+ • Add(path=app/src/main/res/drawable/ic_minus.xml)
+ • Add(path=app/src/main/res/drawable/ic_open_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_pizza_slice_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_place_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_plus.xml)
+ • Add(path=app/src/main/res/drawable/ic_restaurant_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_sms_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_wifi_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_work_24.xml)
+ • Add(path=app/src/main/res/layout/activity_main.xml)
+ • Add(path=app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml)
+ • Add(path=app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml)
+ • Add(path=app/src/main/res/mipmap-hdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-hdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/mipmap-mdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-mdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/mipmap-xhdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-xhdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/mipmap-xxhdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/values/colors.xml)
+ • Add(path=app/src/main/res/values/strings.xml)
+ • Add(path=app/src/main/res/values/styles.xml)
+ • Add(path=app/src/test/java/com/ahmedadelsaid/androidslicesexample/ExampleUnitTest.kt)
+ • Add(path=build.gradle)
+ • Add(path=gradle.properties)
+ • Add(path=gradle/wrapper/gradle-wrapper.jar)
+ • Add(path=gradle/wrapper/gradle-wrapper.properties)
+ • Add(path=gradlew)
+ • Add(path=gradlew.bat)
+ • Add(path=settings.gradle)
+
+Processing commits from null to ec1de6a
+ • 82d24a8 - Initial commit
+ • 68eb230 - First commit
+ • 5139527 - Initial commit
+ • 5897ee6 - Merge branch 'master' of github.com:ahmed-adel-said/android-slices-example
+ • 45c0696 - Second Commit.
+ • 306b003 - Update README.md
+ • 03e89a4 - Last Commit for today.
+ • 8adc3aa - git cache cleared
+ • ef2a29c - Merge branch 'master' of github.com:ahmed-adel-said/android-slices-example
+ • 4347170 - Merge branch 'master' of github.com:ahmed-adel-said/android-slices-example
+ • ec1de6a - Setup syncing on 'OnePlus 5T'
+
+Syncing changes (68)
+ • Add(path=.gitignore)
+ • Add(path=.idea/codeStyles/Project.xml)
+ • Add(path=.idea/compiler.xml)
+ • Add(path=.idea/encodings.xml)
+ • Add(path=.idea/misc.xml)
+ • Add(path=.idea/modules.xml)
+ • Add(path=.idea/runConfigurations.xml)
+ • Add(path=.idea/vcs.xml)
+ • Add(path=.press/README.md)
+ • Add(path=LICENSE)
+ • Add(path=README.md)
+   creating new note for README.md with id=f8ea278a-438c-4236-b374-7c49cc0e116b
+ • Add(path=app/.gitignore)
+ • Add(path=app/build.gradle)
+ • Add(path=app/proguard-rules.pro)
+ • Add(path=app/src/androidTest/java/com/ahmedadelsaid/androidslicesexample/ExampleInstrumentedTest.kt)
+ • Add(path=app/src/main/AndroidManifest.xml)
+ • Add(path=app/src/main/java/com/ahmedadelsaid/androidslicesexample/ExamplesSliceProvider.kt)
+ • Add(path=app/src/main/java/com/ahmedadelsaid/androidslicesexample/IncrementDecrementBroadcastReceiver.kt)
+ • Add(path=app/src/main/java/com/ahmedadelsaid/androidslicesexample/MainActivity.kt)
+ • Add(path=app/src/main/java/com/ahmedadelsaid/androidslicesexample/WifiBroadcastReceiver.kt)
+ • Add(path=app/src/main/res/drawable-v24/ic_launcher_foreground.xml)
+ • Add(path=app/src/main/res/drawable/android_icon_five.png)
+ • Add(path=app/src/main/res/drawable/android_icon_four.png)
+ • Add(path=app/src/main/res/drawable/android_icon_one.png)
+ • Add(path=app/src/main/res/drawable/android_icon_three.png)
+ • Add(path=app/src/main/res/drawable/android_icon_two.png)
+ • Add(path=app/src/main/res/drawable/ic_android_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_bluetooth_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_brightness_auto_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_car_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_directions_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_email_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_flight_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_home_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_launcher_background.xml)
+ • Add(path=app/src/main/res/drawable/ic_minus.xml)
+ • Add(path=app/src/main/res/drawable/ic_open_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_pizza_slice_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_place_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_plus.xml)
+ • Add(path=app/src/main/res/drawable/ic_restaurant_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_sms_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_wifi_24.xml)
+ • Add(path=app/src/main/res/drawable/ic_work_24.xml)
+ • Add(path=app/src/main/res/layout/activity_main.xml)
+ • Add(path=app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml)
+ • Add(path=app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml)
+ • Add(path=app/src/main/res/mipmap-hdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-hdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/mipmap-mdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-mdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/mipmap-xhdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-xhdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/mipmap-xxhdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+ • Add(path=app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png)
+ • Add(path=app/src/main/res/values/colors.xml)
+ • Add(path=app/src/main/res/values/strings.xml)
+ • Add(path=app/src/main/res/values/styles.xml)
+ • Add(path=app/src/test/java/com/ahmedadelsaid/androidslicesexample/ExampleUnitTest.kt)
+ • Add(path=build.gradle)
+ • Add(path=gradle.properties)
+ • Add(path=gradle/wrapper/gradle-wrapper.jar)
+ • Add(path=gradle/wrapper/gradle-wrapper.properties)
+ • Add(path=gradlew)
+ • Add(path=gradlew.bat)
+ • Add(path=settings.gradle)
+
+Syncing deletions
+ • README.md
+   can't find file
+
+Committing unsynced notes (2):
+ • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
+   picking local copy and discarding remote (if any)
+ • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
+   picking local copy and discarding remote (if any)
+
+Processing commits from 4bbc30b to bd581a5
+ • 4bbc30b - Create new file name records
+ • fb478e3 - Update 'welcome_to_press.md'
+ • bd581a5 - Update 'markdown_guide.md'
+
+Syncing changes (4)
+ • Add(path=.press/registers/markdown_guide)
+ • Add(path=.press/registers/welcome_to_press)
+ • Add(path=markdown_guide.md)
+   skipping markdown_guide.md (already saved)
+ • Add(path=welcome_to_press.md)
+   skipping welcome_to_press.md (already saved)
+
+Pushing changes
+Wrapping up sync (before push) on Sun, 17 Jan 2021 15:18:33 UTC
